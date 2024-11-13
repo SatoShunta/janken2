@@ -10,5 +10,3 @@ def cpu_pon():
         print('チョキ')
     else:
         print('パー')
-        
-cpu_pon()
